@@ -1,0 +1,1 @@
+import{w as t}from"./with-props-BMOtgW5C.js";import{o}from"./chunk-D4RADZKF-BXVSF3ox.js";function m({}){return[{title:"my-chords"},{name:"description",content:"Welcome to my-chords!"}]}const s=t(function(){return o.jsx(o.Fragment,{})});export{s as default,m as meta};
